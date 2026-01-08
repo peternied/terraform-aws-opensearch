@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.5.0](https://github.com/terraform-aws-modules/terraform-aws-opensearch/compare/v2.4.0...v2.5.0) (2026-01-08)
+
+### Features
+
+* Add provider meta user-agent, replacing static tag ([#51](https://github.com/terraform-aws-modules/terraform-aws-opensearch/issues/51)) ([4d96860](https://github.com/terraform-aws-modules/terraform-aws-opensearch/commit/4d96860f3bd62326be91cbea33db2cb5eaa07341))
+
 ## [2.4.0](https://github.com/terraform-aws-modules/terraform-aws-opensearch/compare/v2.3.0...v2.4.0) (2025-11-16)
 
 ### Features
